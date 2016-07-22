@@ -17,9 +17,19 @@ nav {
 nav ul{
 	float: right; 
 }
+nav a{
+	color:white;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: monospace;
+}
+nav li{
+	list-style: none;
+}
 
 .name {
 	float: left;
 	color: white;
 	font-size: 16px;
 }
+
