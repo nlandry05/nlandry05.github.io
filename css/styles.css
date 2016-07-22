@@ -25,6 +25,8 @@ nav a{
 }
 nav li{
 	list-style: none;
+	display: inline-block;
+	padding-left: 30px;
 }
 
 
