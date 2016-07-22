@@ -1,0 +1,25 @@
+body {
+	background: lightgrey;
+}
+
+.clearfix:after {
+	display: table;
+	clear: both;
+	content: "";
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: black;
+}
+
+nav ul{
+	float: right; 
+}
+
+.name {
+	float: left;
+	color: white;
+	font-size: 16px;
+}
