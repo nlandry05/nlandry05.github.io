@@ -53,10 +53,12 @@ nav li{
 	
 	
 
-
-
-
-
+.banner-text {
+	text-align: center;
+	padding-top: 250px;
+	color: #fff;
+	font-size: 40px;
+}
 
 .banner-text {
 	text-align: center;
