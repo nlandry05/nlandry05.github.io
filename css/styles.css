@@ -50,6 +50,7 @@ nav li{
 	-webkit-filter: grayscale(0.8);
 	filter: grayscale(0.8);
 	background-attachment: fixed;
+}
 	
 	
 
@@ -65,7 +66,6 @@ nav li{
 	padding-top: 250px;
 	color: #fff;
 	font-size: 40px;
-	
 }
 .main-text {
 	background: #82807b;
