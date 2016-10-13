@@ -1,5 +1,6 @@
 body {
 	background: #82807b;
+	margin: 0;
 }
 
 .clearfix:after {
@@ -11,7 +12,8 @@ body {
 nav {
     padding-top: 20px;
     padding-bottom: 20px;
-    background: black;
+    width: 100%;
+    position: absolute;
 }
 
 nav ul{
