@@ -14,6 +14,7 @@ nav {
     padding-bottom: 20px;
     width: 100%;
     position: absolute;
+    z-index: 9;
 }
 
 nav ul{
@@ -44,9 +45,11 @@ nav li{
 .stryker{
 	width: 100%;
 	height: 600px;
-	background: url("../img/IMG_0073.JPG")  ;
+	background: url("../img/IMG_0073.JPG") bottom center;
 	background-size: cover;
-}
+	-webkit-filter: grayscale(0.8);
+	filter: grayscale(0.8);
+
 
 .main-text {
 	background: #82807b;
